@@ -13,7 +13,7 @@ library(treemapify)
 
 getwd()
 
-setwd("C:\\Users\\chauncey.robbs\\Documents\\Projects\\LPPRP 2022\\02 Data\\Chapter 1")
+setwd("LPPRP 2022/02 Data/Chapter 1/")
 
 vignette(package = "tidycensus")
 help(package = "tidycensus")
